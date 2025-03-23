@@ -119,3 +119,4 @@ jobs:
     inputs:
       targetType: 'filePath'
       filePath: .\ci\coverage.ps1
+
